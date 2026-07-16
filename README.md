@@ -1,3 +1,3 @@
 nopen_FE
 
-awal perjalanan belajar github dari nol
+awal perjalanan belajar github dari nol sampai bisa
