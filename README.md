@@ -1,4 +1,4 @@
-##CATATAN BELAJAR GITHUB AND GIT DARI NOL 
+## CATATAN BELAJAR GITHUB AND GIT DARI NOL 
 
 - Dalam repo ini saya tidak bisa memastikkan 100% benar, saya hanya memberikan edukasi atau pengalaman saya belajar git dan github dari nol 
 - Saya dapatkan ilmu ini juga berasal dari youtube, dan saya kemas dengan bantuan AI supaya mempermudah pemahaman bagi pembaca yang ingin belajar
